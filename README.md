@@ -21,7 +21,7 @@ The Course Page Website is a platform that provides detailed information about v
 ## Installation and Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/course-page.git
+   git clone https://github.com/Anurag915/course-page.git
    cd course-page
    ```
 2. Install dependencies:
